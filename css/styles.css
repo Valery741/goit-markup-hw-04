@@ -199,10 +199,14 @@ width: calc((100% - 72px) / 4);
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.icons {
+.features-wrapper {
     width: 64px;
     height: 64px;
     flex-shrink: 0;
+    margin-top: 24px;
+    margin-left: 100px;
+    margin-bottom: 24px;
+    margin-right: 100px;
 }
 /* < !-- Main content team --> */
 .team {
