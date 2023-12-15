@@ -81,7 +81,7 @@ header {
     display: flex;
     gap: 40px;
 }
-.menu-nav {
+.menu-nav, .menu-nav-active {
     color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
@@ -101,8 +101,14 @@ header {
 .menu-nav:focus {
     color: #404bbf;
 }
+.menu-nav-active:hover {
+    color: #404bbf;
+}
 
-.menu-nav ::after {
+.menu-nav-active :hover {
+    color: #404bbf;
+}
+.menu-nav-active::after {
     color: #404bbf;
     content: '';
     position: absolute;
