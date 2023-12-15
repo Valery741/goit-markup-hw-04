@@ -302,6 +302,8 @@ header {
     justify-content: center;
     align-items: center;
     gap: 24px;
+    width: 40px;
+    height: 40px;
 }
 .social-team-item {
     width: 40px;
