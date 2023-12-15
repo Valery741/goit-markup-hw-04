@@ -47,7 +47,7 @@ header {
     align-items: center;
     box-shadow: rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16),
-    0px 1px 6px rgba(46, 47, 66, 0.08);;
+    0px 1px 6px rgba(46, 47, 66, 0.08);
 
 .container {
     width: 1158px;
@@ -69,6 +69,7 @@ header {
     align-items: center;
     margin: 0;
     gap: 40px;
+    
 }
 .logo-header {
     color:#404bbf;;
