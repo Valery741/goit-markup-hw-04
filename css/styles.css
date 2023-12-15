@@ -163,8 +163,7 @@ header {
 }
 
 /* Main content */
-
-.solution {
+.hero {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/solution/people-office\ 1png.jpg);
     max-width: 1440px;
     background-repeat: no-repeat;
