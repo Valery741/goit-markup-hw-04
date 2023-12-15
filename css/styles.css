@@ -106,7 +106,7 @@ header {
     color: #404bbf;
 }
 
-.menu-nav: ::after {
+.menu-nav ::after {
     width: 48px;
     height: 4px;
     border-radius: 2px;
