@@ -96,7 +96,7 @@ header {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #404bbf;
     padding-top: 24px;
     padding-bottom: 24px;
     position: relative;
@@ -111,13 +111,13 @@ header {
     height: 4px;
     border-radius: 2px;
     background-color: #404bbf;
-    content: '';
     position: absolute;
     display: block;
     left: 0;
     bottom: -1px;
-    gap: 2opx;
+    gap: 2px;
     color: #404bbf;
+    content: '';
 }
 .address {
     font-style: normal
