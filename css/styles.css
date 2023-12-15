@@ -133,7 +133,10 @@ header {
     text-decoration: none;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.header-adress-list :hover, .header-adress-list :focus  {
+.header-adress-list :hover {
+    color: #404bbf;
+}
+.header-adress-list :focus {
     color: #404bbf;
 }
 
